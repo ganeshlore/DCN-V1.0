@@ -967,17 +967,4 @@ Together with the Secure Element, NFC Interface, and Hardware Root of Trust, Ant
 
 ***
 
-## Chapter Summary
-
-Chapter 6 defined the four major components of DCN Secure Hardware:
-
-1. **Secure Element**\
-   Protects keys, trusted applications, counters, policies, and cryptographic operations.
-2. **NFC Interface**\
-   Provides standardized contactless communication between the Physical Digital Asset and external readers.
-3. **Hardware Root of Trust**\
-   Establishes the permanent identity, integrity, and authenticity of the hardware.
-4. **Anti-Tamper Design**\
-   Protects the physical implementation against manipulation, extraction, substitution, and counterfeiting.
-
 Together, these components establish the trusted physical foundation required for Digital Crypto Notes, identity credentials, tickets, CBDC instruments, programmable assets, collectibles, and other DCN-compatible Physical Digital Assets.

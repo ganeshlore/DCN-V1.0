@@ -1,13 +1,117 @@
 # DCN — The Open Standard for Physical Digital Assets
 
-DCN is an open protocol for issuing, managing, transferring, authenticating, and verifying blockchain-backed Physical Digital Assets through interoperable hardware, software, cryptographic, and lifecycle standards.
+**Digital Crypto Note (DCN)** is an open standard for creating secure, interoperable **Physical Digital Assets** backed by blockchain and digital infrastructure.
 
-Digital Crypto Note is the first reference implementation of the DCN standard. The same protocol can support stablecoin notes, CBDC instruments, gift cards, government benefits, payroll instruments, transit passes, credentials, certificates, tokenized financial instruments, collectibles, and other secure physical representations of digital assets.
+DCN defines a common architecture for:
+
+- Digital Cash
+- Stablecoin Notes
+- CBDCs
+- Gift Cards
+- Event Tickets
+- Payroll
+- Government Benefits
+- Transit
+- Loyalty
+- Certificates
+- Digital Identity
+- Collectibles
+- Future Physical Digital Assets
+
+The standard covers secure hardware, NFC communication, wallet architecture, multi-chain support, payments, ownership, verification, publishing, manufacturing, SDKs, APIs, governance, and certification.
+
+## Documentation
+
+[![Read the DCN Documentation](https://img.shields.io/badge/Read%20the%20DCN%20Documentation-GitBook-blue?style=for-the-badge&logo=gitbook)](https://chain-sense.gitbook.io/dcn-the-open-standard-for-physical-digital-assets)
+
+### [📖 Open DCN v1.0 Documentation](https://chain-sense.gitbook.io/dcn-the-open-standard-for-physical-digital-assets)
+
+---
+
+## Vision
+
+> **DCN — The Open Standard for Physical Digital Assets.**
+
+DCN is not a cryptocurrency, blockchain, wallet, or proprietary payment network.
+
+It is an open infrastructure standard designed to allow independent:
+
+**Publishers → Manufacturers → Wallets → Merchants → Developers → Blockchain Networks**
+
+to create and interact with trusted Physical Digital Assets through a common protocol.
+
+---
 
 ## DCN v1.0
 
-This repository contains the first-draft GitBook structure for DCN v1.0. Each numbered chapter is organized as a master topic with its subtopics as separate GitBook pages.
+The first specification includes:
 
-## Documentation Status
+- System Architecture
+- Physical Digital Asset Model
+- Secure Hardware
+- Wallet Architecture
+- Multi-Chain Support
+- Security Architecture
+- Ownership & Trust
+- Payment Protocol
+- Merchant Acceptance
+- Publisher Platform
+- Manufacturing
+- Verification Services
+- SDKs
+- APIs
+- DCN Foundation & Governance
+- Business Model
+- Use Cases
+- Future Roadmap
+- Standards
+- Technical Appendices
 
-The repository currently provides the complete publication structure and drafting placeholders. Technical requirements, protocol definitions, diagrams, security analysis, message formats, and reference implementations will be added progressively.
+---
+
+## Status
+
+**DCN v1.0 — Foundation Draft**
+
+The specification is currently intended for technical review, prototype development, interoperability testing, and ecosystem collaboration.
+
+---
+
+## Contributing
+
+DCN is designed as an open standard.
+
+We welcome participation from:
+
+- Blockchain Developers
+- Security Researchers
+- Hardware Manufacturers
+- Secure Element Vendors
+- Wallet Providers
+- Stablecoin Issuers
+- Banks
+- Governments
+- Enterprises
+- Universities
+- Standards Organizations
+- Open-Source Contributors
+
+Please review the documentation before proposing changes or implementations.
+
+---
+
+## Links
+
+**Documentation:**  
+https://chain-sense.gitbook.io/dcn-the-open-standard-for-physical-digital-assets
+
+---
+
+## License
+
+Licensing and contribution policies for the DCN specification and reference implementations will be published as the project progresses.
+
+---
+
+**Digital Crypto Note (DCN)**  
+*Building the Global Standard for Physical Digital Assets.*

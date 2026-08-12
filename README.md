@@ -22,9 +22,9 @@ The standard covers secure hardware, NFC communication, wallet architecture, mul
 
 ## Documentation
 
-[![Read the DCN Documentation](https://img.shields.io/badge/Read%20the%20DCN%20Documentation-GitBook-blue?style=for-the-badge&logo=gitbook)](https://chain-sense.gitbook.io/dcn-the-open-standard-for-physical-digital-assets)
+[![Read the DCN Documentation](https://img.shields.io/badge/Read%20the%20DCN%20Documentation-GitBook-blue?style=for-the-badge&logo=gitbook)](https://chain-sense.gitbook.io/dcn)
 
-### [📖 Open DCN v1.0 Documentation](https://chain-sense.gitbook.io/dcn-the-open-standard-for-physical-digital-assets)
+### [📖 Open DCN v1.0 Documentation](https://chain-sense.gitbook.io/dcn)
 
 ---
 
@@ -103,7 +103,7 @@ Please review the documentation before proposing changes or implementations.
 ## Links
 
 **Documentation:**  
-https://chain-sense.gitbook.io/dcn-the-open-standard-for-physical-digital-assets
+https://chain-sense.gitbook.io/dcn
 
 ---
 
